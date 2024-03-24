@@ -1,0 +1,10 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    {{-- <img src="{{ asset('images/logo.png') }}" alt="Logo" style="height: 40px; width: auto;"> --}}
+    <title>Tiket Kereta Api FC @yield('judultitle')</title>
+    <link rel="shortcut icon" href="{{ asset('images/logo.png') }} ">
+    <link rel="stylesheet" type="text/css" href="{{asset('bs')}}/css/bootstrap.css">
+    <script type="text/javasript" src="{{asset('bs')}}/js/jquery.js"></script>
+    <script type="text/javasript" src="{{asset('bs')}}/js/bootstrap.js"></script>
+</head>
